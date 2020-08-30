@@ -1,6 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/dfreilich/dfreilich/master/assets/wave.gif" width="30px"> 🧑‍💻
 
-<img align="right" alt="GIF" src="https://profile-counter.glitch.me/dfreilich/count.svg" />
+You are visitor #<img align="right" alt="GIF" src="https://profile-counter.glitch.me/dfreilich/count.svg" />
 
 I'm David, a Software Engineer based in Israel, passionate on writing beautiful, maintainable and tested code. I spend most of my time working on the [Cloud Native Buildpacks](https://buildpacks.io/) project, where I focus on improving the [Pack CLI](http://github.com/buildpacks/pack). 
 
@@ -18,7 +18,7 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
 ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -30,7 +30,8 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
 Credits:
 * Waving Gif &rarr; https://cliply.co/clip/waving-hand/
 * Github Stats &rarr; https://github.com/anuraghazra/github-readme-stats
-* Counter & Recent Activity &rarr; https://github.com/eagleanurag/eagleanurag/blob/master/README.md
+* Visitor Counter &rarr; https://github.com/eagleanurag/eagleanurag/blob/master/README.md
+* Recent Activity: &rarr; https://github.com/jamesgeorge007/github-activity-readme
 
 Profile Inspiration:
 * [@eagleanurag](https://github.com/eagleanurag/eagleanurag/blob/master/README.md)
