@@ -2,6 +2,8 @@
 
 <p align="right"> You are visitor <img align="right" alt="GIF" src="https://profile-counter.glitch.me/dfreilich/count.svg" /> </p>
 
+![update-readme](https://github.com/dfreilich/dfreilich/workflows/update-readme/badge.svg)
+
 I'm David, a Software Engineer based in Israel, passionate on writing beautiful, maintainable and tested code. I spend most of my time working on the [Cloud Native Buildpacks](https://buildpacks.io/) project, where I focus on improving the [Pack CLI](http://github.com/buildpacks/pack). 
 
 [![Pack Card](https://github-readme-stats.vercel.app/api/pin/?username=buildpacks&repo=pack)](https://github.com/anuraghazra/github-readme-stats)
