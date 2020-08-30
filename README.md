@@ -1,5 +1,4 @@
-# Hey there! <img src="https://raw.githubusercontent.com/dfreilich/dfreilich/master/assets/wave.gif" width="30px"> 🧑‍💻
-
+## Hi there 👋 🧑‍💻
 
 <!--
 **dfreilich/dfreilich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Engineer, passionate on writing beautiful, maintainable and tested code. I spend most of my time working on the [Cloud Native Buildpacks](https://buildpacks.io/) project, where I focus on improving the [Pack CLI](http://github.com/buildpacks/pack).
+I'm a Software Engineer, passionate on writing beautiful, maintainable and tested code. I spend most of my time working on the [Cloud Native Buildpacks](https://buildpacks.io/) project, where I focus on improving the [Pack CLI](http://github.com/buildpacks/pack). 
 
-#### 📈 GitHub Stats
+### 📈 GitHub Stats
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=dfreilich&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfreilich)](https://github.com/anuraghazra/github-readme-stats)
+---
+Credits:
+* Waving Gif &rarr; https://cliply.co/clip/waving-hand/
