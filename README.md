@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm a Software Engineer, passionate on writing beautiful, maintainable and tested code. I spend most of my time working on the [Cloud Native Buildpacks](https://buildpacks.io/) project, where I focus on improving the [Pack CLI](http://github.com/buildpacks/pack). 
+
 [![Pack Card](https://github-readme-stats.vercel.app/api/pin/?username=buildpacks&repo=pack)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📈 GitHub Stats
