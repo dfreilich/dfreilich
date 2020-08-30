@@ -2,9 +2,7 @@
 
 <!--
 **dfreilich/dfreilich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,6 +16,13 @@ Here are some ideas to get you started:
 I'm David, a Software Engineer based in Israel, passionate on writing beautiful, maintainable and tested code. I spend most of my time working on the [Cloud Native Buildpacks](https://buildpacks.io/) project, where I focus on improving the [Pack CLI](http://github.com/buildpacks/pack). 
 
 [![Pack Card](https://github-readme-stats.vercel.app/api/pin/?username=buildpacks&repo=pack)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=dfreilich&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
