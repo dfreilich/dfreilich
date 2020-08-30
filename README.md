@@ -3,21 +3,17 @@
 <!--
 **dfreilich/dfreilich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<img align="right" alt="GIF" src="https://profile-counter.glitch.me/eagleanurag/count.svg" />
 
 I'm David, a Software Engineer based in Israel, passionate on writing beautiful, maintainable and tested code. I spend most of my time working on the [Cloud Native Buildpacks](https://buildpacks.io/) project, where I focus on improving the [Pack CLI](http://github.com/buildpacks/pack). 
 
 [![Pack Card](https://github-readme-stats.vercel.app/api/pin/?username=buildpacks&repo=pack)](https://github.com/anuraghazra/github-readme-stats)
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+- 🌱 I’m currently improving my Golang skills
+- 📫 How to reach me: You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+- ⚡ Fun fact: At different points, I've been a certified clown, sailor, and backseat driver. 
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
