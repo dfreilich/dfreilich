@@ -9,6 +9,7 @@
 I'm David, a Software Engineer based in Israel, passionate on writing beautiful, maintainable and tested code. I spend most of my time working on the [Cloud Native Buildpacks](https://buildpacks.io/) project, where I focus on improving the [Pack CLI](http://github.com/buildpacks/pack). 
 
 - 🌱 I’m currently improving my Golang skills
+- 🧑‍🔬 In my free time, I experiment with Machine Learning projects
 - ⚡ Fun fact: At different points, I've been a certified clown, sailor, and backseat driver. 
 
 [![Pack Card](https://github-readme-stats.vercel.app/api/pin/?username=buildpacks&repo=pack)](https://github.com/anuraghazra/github-readme-stats)
