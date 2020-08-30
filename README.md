@@ -1,10 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/dfreilich/dfreilich/master/assets/wave.gif" width="30px"> 🧑‍💻
 
-<!--
-**dfreilich/dfreilich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-<img align="right" alt="GIF" src="https://profile-counter.glitch.me/eagleanurag/count.svg" />
+<img align="right" alt="GIF" src="https://profile-counter.glitch.me/dfreilich/count.svg" />
 
 I'm David, a Software Engineer based in Israel, passionate on writing beautiful, maintainable and tested code. I spend most of my time working on the [Cloud Native Buildpacks](https://buildpacks.io/) project, where I focus on improving the [Pack CLI](http://github.com/buildpacks/pack). 
 
