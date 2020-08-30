@@ -18,12 +18,23 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
 ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 📈 GitHub Stats
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=dfreilich&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 Credits:
 * Waving Gif &rarr; https://cliply.co/clip/waving-hand/
+* Github Stats &rarr; https://github.com/anuraghazra/github-readme-stats
+* Counter & Recent Activity &rarr; https://github.com/eagleanurag/eagleanurag/blob/master/README.md
+
+Profile Inspiration:
+* [@eagleanurag](https://github.com/eagleanurag/eagleanurag/blob/master/README.md)
+
 
 <!-- Icons -->
 
