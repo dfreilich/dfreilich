@@ -1,21 +1,17 @@
 # Hey there! <img src="https://raw.githubusercontent.com/dfreilich/dfreilich/master/assets/wave.gif" width="30px"> 🧑‍💻
+[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/dfreilich)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dfreilich)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidfreilich/)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dfreilich)
 
 <p align="right"> You are visitor <img align="right" alt="GIF" src="https://profile-counter.glitch.me/dfreilich/count.svg" /> </p>
 
-![Readme Build](https://github.com/dfreilich/dfreilich/workflows/update-readme/badge.svg)
-
 I'm David, a Software Engineer based in Israel, passionate on writing beautiful, maintainable and tested code. I spend most of my time working on the [Cloud Native Buildpacks](https://buildpacks.io/) project, where I focus on improving the [Pack CLI](http://github.com/buildpacks/pack). 
 
-[![Pack Card](https://github-readme-stats.vercel.app/api/pin/?username=buildpacks&repo=pack)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🌱 I’m currently improving my Golang skills
-- 📫 How to reach me: Drop me a message on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 - ⚡ Fun fact: At different points, I've been a certified clown, sailor, and backseat driver. 
 
-<a href="https://github.com/dfreilich" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://twitter.com/dfreilich" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/davidfreilich/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://medium.com/@dfreilich" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+[![Pack Card](https://github-readme-stats.vercel.app/api/pin/?username=buildpacks&repo=pack)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
