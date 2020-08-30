@@ -3,6 +3,8 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dfreilich)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidfreilich/)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dfreilich)
+[![Repos Badge](https://badges.pufler.dev/repos/dfreilich)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/dfreilich/dfreilich)](https://badges.pufler.dev)
 
 <p align="right"> You are visitor <img align="right" alt="GIF" src="https://profile-counter.glitch.me/dfreilich/count.svg" /> </p>
 
@@ -49,6 +51,12 @@ Credits:
 Profile Inspiration:
 * [@eagleanurag](https://github.com/eagleanurag/eagleanurag/blob/master/README.md)
 * [@thmsgbrt](https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md)
+* [@spiderpig86](https://github.com/Spiderpig86/Spiderpig86/blob/master/README.md)
+* [@blackcater](https://github.com/blackcater/blackcater/blob/master/README.md)
+
+
+<a href="https://github.com/dfreilich" alt="https://github.com/dfreilich"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=dfreilich&color=000000"></a>
+<a href="https://github.com/dfreilich/dfreilich/blob/master/LICENSE" alt="https://github.com/dfreilich/dfreilich/blob/master/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=Apache%202.0&color=000000"></a>
 
 <!-- Links -->
 <!-- Icons -->
