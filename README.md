@@ -22,6 +22,8 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
 ![](https://img.shields.io/badge/Lang-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 
 ## :zap: Recent Activity
+<details>
+  <summary>Show</summary>
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#190](https://github.com//buildpacks/docs/pull/190) in [buildpacks/docs](https://github.com//buildpacks/docs)
@@ -30,6 +32,8 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
 4. 💪 Opened PR [#185](https://github.com//buildpacks/docs/pull/185) in [buildpacks/docs](https://github.com//buildpacks/docs)
 5. ❗️ Opened issue [#1](https://github.com//dfreilich/pack-action/issues/1) in [dfreilich/pack-action](https://github.com//dfreilich/pack-action)
 <!--END_SECTION:activity-->
+
+</details>
 
 ## 📈 GitHub Stats
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=dfreilich&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
