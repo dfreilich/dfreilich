@@ -33,7 +33,7 @@ Credits:
 * Counter & Recent Activity &rarr; https://github.com/eagleanurag/eagleanurag/blob/master/README.md
 
 Profile Inspiration:
-* @eagleanurag
+@eagleanurag
 
 
 <!-- Icons -->
