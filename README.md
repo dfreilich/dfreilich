@@ -28,11 +28,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#822](https://github.com//buildpacks/pack/issues/822) in [buildpacks/pack](https://github.com//buildpacks/pack)
-2. ❗️ Opened issue [#203](https://github.com//buildpacks/docs/issues/203) in [buildpacks/docs](https://github.com//buildpacks/docs)
-3. 🗣 Commented on [#822](https://github.com//buildpacks/pack/issues/822) in [buildpacks/pack](https://github.com//buildpacks/pack)
-4. 🗣 Commented on [#812](https://github.com//buildpacks/pack/issues/812) in [buildpacks/pack](https://github.com//buildpacks/pack)
-5. 🗣 Commented on [#812](https://github.com//buildpacks/pack/issues/812) in [buildpacks/pack](https://github.com//buildpacks/pack)
+1. 🗣 Commented on [#3291](https://github.com//containerd/containerd/issues/3291) in [containerd/containerd](https://github.com//containerd/containerd)
+2. 🗣 Commented on [#323](https://github.com//buildpacks/lifecycle/issues/323) in [buildpacks/lifecycle](https://github.com//buildpacks/lifecycle)
+3. ❗️ Opened issue [#3](https://github.com//jromero/ugo/issues/3) in [jromero/ugo](https://github.com//jromero/ugo)
+4. 💪 Opened PR [#205](https://github.com//buildpacks/docs/pull/205) in [buildpacks/docs](https://github.com//buildpacks/docs)
+5. 💪 Opened PR [#828](https://github.com//buildpacks/pack/pull/828) in [buildpacks/pack](https://github.com//buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
