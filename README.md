@@ -28,11 +28,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3291](https://github.com//containerd/containerd/issues/3291) in [containerd/containerd](https://github.com//containerd/containerd)
-2. 🗣 Commented on [#323](https://github.com//buildpacks/lifecycle/issues/323) in [buildpacks/lifecycle](https://github.com//buildpacks/lifecycle)
-3. ❗️ Opened issue [#3](https://github.com//jromero/ugo/issues/3) in [jromero/ugo](https://github.com//jromero/ugo)
-4. 💪 Opened PR [#205](https://github.com//buildpacks/docs/pull/205) in [buildpacks/docs](https://github.com//buildpacks/docs)
-5. 💪 Opened PR [#828](https://github.com//buildpacks/pack/pull/828) in [buildpacks/pack](https://github.com//buildpacks/pack)
+1. 🗣 Commented on [#101](https://github.com//buildpacks/spec/issues/101) in [buildpacks/spec](https://github.com//buildpacks/spec)
+2. 🗣 Commented on [#629](https://github.com//buildpacks/pack/issues/629) in [buildpacks/pack](https://github.com//buildpacks/pack)
+3. 🗣 Commented on [#807](https://github.com//buildpacks/pack/issues/807) in [buildpacks/pack](https://github.com//buildpacks/pack)
+4. 🎉 Merged PR [#3](https://github.com//dfreilich/pack/pull/3) in [dfreilich/pack](https://github.com//dfreilich/pack)
+5. 🗣 Commented on [#128](https://github.com//probot/dco/issues/128) in [probot/dco](https://github.com//probot/dco)
 <!--END_SECTION:activity-->
 
 </details>
