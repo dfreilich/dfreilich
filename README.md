@@ -28,11 +28,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com//buildpacks/spec/issues/101) in [buildpacks/spec](https://github.com//buildpacks/spec)
-2. 🗣 Commented on [#629](https://github.com//buildpacks/pack/issues/629) in [buildpacks/pack](https://github.com//buildpacks/pack)
-3. 🗣 Commented on [#807](https://github.com//buildpacks/pack/issues/807) in [buildpacks/pack](https://github.com//buildpacks/pack)
-4. 🎉 Merged PR [#3](https://github.com//dfreilich/pack/pull/3) in [dfreilich/pack](https://github.com//dfreilich/pack)
-5. 🗣 Commented on [#128](https://github.com//probot/dco/issues/128) in [probot/dco](https://github.com//probot/dco)
+1. ❗️ Opened issue [#12](https://github.com//buildpacks/pack-orb/issues/12) in [buildpacks/pack-orb](https://github.com//buildpacks/pack-orb)
+2. ❗️ Opened issue [#355](https://github.com//nektos/act/issues/355) in [nektos/act](https://github.com//nektos/act)
+3. 🗣 Commented on [#828](https://github.com//buildpacks/pack/issues/828) in [buildpacks/pack](https://github.com//buildpacks/pack)
+4. 💪 Opened PR [#831](https://github.com//buildpacks/pack/pull/831) in [buildpacks/pack](https://github.com//buildpacks/pack)
+5. 🗣 Commented on [#814](https://github.com//buildpacks/pack/issues/814) in [buildpacks/pack](https://github.com//buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
