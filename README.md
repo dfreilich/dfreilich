@@ -28,11 +28,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#355](https://github.com//nektos/act/issues/355) in [nektos/act](https://github.com//nektos/act)
-2. 🗣 Commented on [#799](https://github.com//buildpacks/pack/issues/799) in [buildpacks/pack](https://github.com//buildpacks/pack)
-3. ❗️ Reopened issue [#799](https://github.com//buildpacks/pack/issues/799) in [buildpacks/pack](https://github.com//buildpacks/pack)
-4. ❗️ Opened issue [#12](https://github.com//buildpacks/pack-orb/issues/12) in [buildpacks/pack-orb](https://github.com//buildpacks/pack-orb)
-5. ❗️ Opened issue [#355](https://github.com//nektos/act/issues/355) in [nektos/act](https://github.com//nektos/act)
+1. ❗️ Closed issue [#1](https://github.com//dfreilich/pack-action/issues/1) in [dfreilich/pack-action](https://github.com//dfreilich/pack-action)
+2. 🎉 Merged PR [#2](https://github.com//dfreilich/pack-action/pull/2) in [dfreilich/pack-action](https://github.com//dfreilich/pack-action)
+3. 💪 Opened PR [#2](https://github.com//dfreilich/pack-action/pull/2) in [dfreilich/pack-action](https://github.com//dfreilich/pack-action)
+4. 🗣 Commented on [#355](https://github.com//nektos/act/issues/355) in [nektos/act](https://github.com//nektos/act)
+5. 🗣 Commented on [#799](https://github.com//buildpacks/pack/issues/799) in [buildpacks/pack](https://github.com//buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
