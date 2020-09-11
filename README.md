@@ -15,6 +15,9 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
 - ⚡ Fun fact: At different points, I've been a certified clown, sailor, and backseat driver. 
 
 [![Pack Card](https://github-readme-stats.vercel.app/api/pin/?username=buildpacks&repo=pack)](https://github.com/anuraghazra/github-readme-stats)
+[![Pack Action Card](https://github-readme-stats.vercel.app/api/pin/?username=dfreilich&repo=pack-action)](https://github.com/anuraghazra/github-readme-stats)
+[![Book Summaries Card](https://github-readme-stats.vercel.app/api/pin/?username=dfreilich&repo=summaries)](https://github.com/anuraghazra/github-readme-stats)
+[![YidGo Card](https://github-readme-stats.vercel.app/api/pin/?username=dfreilich&repo=yid-go)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
