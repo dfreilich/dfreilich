@@ -31,10 +31,10 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com//buildpacks/rfcs/issues/91) in [buildpacks/rfcs](https://github.com//buildpacks/rfcs)
-2. 🗣 Commented on [#822](https://github.com//buildpacks/pack/issues/822) in [buildpacks/pack](https://github.com//buildpacks/pack)
+1. 🗣 Commented on [#212](https://github.com//buildpacks/docs/issues/212) in [buildpacks/docs](https://github.com//buildpacks/docs)
+2. 🗣 Commented on [#91](https://github.com//buildpacks/rfcs/issues/91) in [buildpacks/rfcs](https://github.com//buildpacks/rfcs)
 3. 🗣 Commented on [#822](https://github.com//buildpacks/pack/issues/822) in [buildpacks/pack](https://github.com//buildpacks/pack)
-4. 🗣 Commented on [#707](https://github.com//buildpacks/pack/issues/707) in [buildpacks/pack](https://github.com//buildpacks/pack)
+4. 🗣 Commented on [#822](https://github.com//buildpacks/pack/issues/822) in [buildpacks/pack](https://github.com//buildpacks/pack)
 5. 🗣 Commented on [#707](https://github.com//buildpacks/pack/issues/707) in [buildpacks/pack](https://github.com//buildpacks/pack)
 <!--END_SECTION:activity-->
 
