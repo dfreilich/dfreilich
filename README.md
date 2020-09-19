@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com//buildpacks/rfcs/issues/116) in [buildpacks/rfcs](https://github.com//buildpacks/rfcs)
-2. 🗣 Commented on [#106](https://github.com//buildpacks/rfcs/issues/106) in [buildpacks/rfcs](https://github.com//buildpacks/rfcs)
-3. 🗣 Commented on [#114](https://github.com//buildpacks/rfcs/issues/114) in [buildpacks/rfcs](https://github.com//buildpacks/rfcs)
-4. 💪 Opened PR [#116](https://github.com//buildpacks/rfcs/pull/116) in [buildpacks/rfcs](https://github.com//buildpacks/rfcs)
-5. 🗣 Commented on [#212](https://github.com//buildpacks/docs/issues/212) in [buildpacks/docs](https://github.com//buildpacks/docs)
+1. 🎉 Merged PR [#215](https://github.com//buildpacks/docs/pull/215) in [buildpacks/docs](https://github.com//buildpacks/docs)
+2. 🎉 Merged PR [#831](https://github.com//buildpacks/pack/pull/831) in [buildpacks/pack](https://github.com//buildpacks/pack)
+3. ❗️ Closed issue [#285](https://github.com//buildpacks/pack/issues/285) in [buildpacks/pack](https://github.com//buildpacks/pack)
+4. 🗣 Commented on [#745](https://github.com//buildpacks/pack/issues/745) in [buildpacks/pack](https://github.com//buildpacks/pack)
+5. 💪 Opened PR [#215](https://github.com//buildpacks/docs/pull/215) in [buildpacks/docs](https://github.com//buildpacks/docs)
 <!--END_SECTION:activity-->
 
 </details>
