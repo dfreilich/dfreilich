@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#429](https://github.com/buildpacks/lifecycle/issues/429) in [buildpacks/lifecycle](https://github.com/buildpacks/lifecycle)
-2. 🗣 Commented on [#137](https://github.com/cloudfoundry/staticfile-buildpack/issues/137) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)
-3. ❌ Closed PR [#9](https://github.com/dfreilich/pack/pull/9) in [dfreilich/pack](https://github.com/dfreilich/pack)
-4. ❌ Closed PR [#7](https://github.com/dfreilich/pack/pull/7) in [dfreilich/pack](https://github.com/dfreilich/pack)
-5. ❌ Closed PR [#6](https://github.com/dfreilich/pack/pull/6) in [dfreilich/pack](https://github.com/dfreilich/pack)
+1. 🗣 Commented on [#116](https://github.com/buildpacks/rfcs/issues/116) in [buildpacks/rfcs](https://github.com/buildpacks/rfcs)
+2. 🗣 Commented on [#429](https://github.com/buildpacks/lifecycle/issues/429) in [buildpacks/lifecycle](https://github.com/buildpacks/lifecycle)
+3. 🗣 Commented on [#137](https://github.com/cloudfoundry/staticfile-buildpack/issues/137) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)
+4. ❌ Closed PR [#9](https://github.com/dfreilich/pack/pull/9) in [dfreilich/pack](https://github.com/dfreilich/pack)
+5. ❌ Closed PR [#7](https://github.com/dfreilich/pack/pull/7) in [dfreilich/pack](https://github.com/dfreilich/pack)
 <!--END_SECTION:activity-->
 
 </details>
