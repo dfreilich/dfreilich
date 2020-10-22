@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#745](https://github.com/buildpacks/pack/issues/745) in [buildpacks/pack](https://github.com/buildpacks/pack)
-2. ❗️ Opened issue [#899](https://github.com/buildpacks/pack/issues/899) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. 🗣 Commented on [#116](https://github.com/buildpacks/rfcs/issues/116) in [buildpacks/rfcs](https://github.com/buildpacks/rfcs)
-4. 🗣 Commented on [#429](https://github.com/buildpacks/lifecycle/issues/429) in [buildpacks/lifecycle](https://github.com/buildpacks/lifecycle)
-5. 🗣 Commented on [#137](https://github.com/cloudfoundry/staticfile-buildpack/issues/137) in [cloudfoundry/staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack)
+1. 🗣 Commented on [#116](https://github.com/buildpacks/rfcs/issues/116) in [buildpacks/rfcs](https://github.com/buildpacks/rfcs)
+2. 🗣 Commented on [#745](https://github.com/buildpacks/pack/issues/745) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. ❗️ Opened issue [#899](https://github.com/buildpacks/pack/issues/899) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. 🗣 Commented on [#116](https://github.com/buildpacks/rfcs/issues/116) in [buildpacks/rfcs](https://github.com/buildpacks/rfcs)
+5. 🗣 Commented on [#429](https://github.com/buildpacks/lifecycle/issues/429) in [buildpacks/lifecycle](https://github.com/buildpacks/lifecycle)
 <!--END_SECTION:activity-->
 
 </details>
