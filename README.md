@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/buildpacks/rfcs/issues/116) in [buildpacks/rfcs](https://github.com/buildpacks/rfcs)
-2. 🗣 Commented on [#745](https://github.com/buildpacks/pack/issues/745) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. ❗️ Opened issue [#899](https://github.com/buildpacks/pack/issues/899) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. 🗣 Commented on [#116](https://github.com/buildpacks/rfcs/issues/116) in [buildpacks/rfcs](https://github.com/buildpacks/rfcs)
-5. 🗣 Commented on [#429](https://github.com/buildpacks/lifecycle/issues/429) in [buildpacks/lifecycle](https://github.com/buildpacks/lifecycle)
+1. 🎉 Merged PR [#1](https://github.com/dfreilich/kubecon-na-20-demo/pull/1) in [dfreilich/kubecon-na-20-demo](https://github.com/dfreilich/kubecon-na-20-demo)
+2. 💪 Opened PR [#1](https://github.com/dfreilich/kubecon-na-20-demo/pull/1) in [dfreilich/kubecon-na-20-demo](https://github.com/dfreilich/kubecon-na-20-demo)
+3. 🗣 Commented on [#116](https://github.com/buildpacks/rfcs/issues/116) in [buildpacks/rfcs](https://github.com/buildpacks/rfcs)
+4. 🗣 Commented on [#745](https://github.com/buildpacks/pack/issues/745) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. ❗️ Opened issue [#899](https://github.com/buildpacks/pack/issues/899) in [buildpacks/pack](https://github.com/buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
