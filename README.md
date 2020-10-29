@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#268](https://github.com/BurntSushi/toml/issues/268) in [BurntSushi/toml](https://github.com/BurntSushi/toml)
-2. 🗣 Commented on [#849](https://github.com/buildpacks/pack/issues/849) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. 🎉 Merged PR [#231](https://github.com/buildpacks/docs/pull/231) in [buildpacks/docs](https://github.com/buildpacks/docs)
-4. 💪 Opened PR [#231](https://github.com/buildpacks/docs/pull/231) in [buildpacks/docs](https://github.com/buildpacks/docs)
-5. 🗣 Commented on [#916](https://github.com/buildpacks/pack/issues/916) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 🗣 Commented on [#225](https://github.com/buildpacks/docs/issues/225) in [buildpacks/docs](https://github.com/buildpacks/docs)
+2. 🗣 Commented on [#94](https://github.com/buildpacks/samples/issues/94) in [buildpacks/samples](https://github.com/buildpacks/samples)
+3. 💪 Opened PR [#94](https://github.com/buildpacks/samples/pull/94) in [buildpacks/samples](https://github.com/buildpacks/samples)
+4. ❗️ Closed issue [#176](https://github.com/buildpacks/docs/issues/176) in [buildpacks/docs](https://github.com/buildpacks/docs)
+5. 🗣 Commented on [#176](https://github.com/buildpacks/docs/issues/176) in [buildpacks/docs](https://github.com/buildpacks/docs)
 <!--END_SECTION:activity-->
 
 </details>
