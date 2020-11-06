@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/buildpacks/samples/issues/94) in [buildpacks/samples](https://github.com/buildpacks/samples)
-2. ❗️ Opened issue [#244](https://github.com/buildpacks/docs/issues/244) in [buildpacks/docs](https://github.com/buildpacks/docs)
-3. 🗣 Commented on [#127](https://github.com/buildpacks/docs/issues/127) in [buildpacks/docs](https://github.com/buildpacks/docs)
-4. 🗣 Commented on [#925](https://github.com/buildpacks/pack/issues/925) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. 🗣 Commented on [#931](https://github.com/buildpacks/pack/issues/931) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 🗣 Commented on [#163](https://github.com/codecov/codecov-action/issues/163) in [codecov/codecov-action](https://github.com/codecov/codecov-action)
+2. 💪 Opened PR [#936](https://github.com/buildpacks/pack/pull/936) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. 🗣 Commented on [#875](https://github.com/buildpacks/pack/issues/875) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. ❗️ Opened issue [#164](https://github.com/codecov/codecov-action/issues/164) in [codecov/codecov-action](https://github.com/codecov/codecov-action)
+5. ❗️ Opened issue [#163](https://github.com/codecov/codecov-action/issues/163) in [codecov/codecov-action](https://github.com/codecov/codecov-action)
 <!--END_SECTION:activity-->
 
 </details>
