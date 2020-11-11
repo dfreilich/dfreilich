@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#941](https://github.com/buildpacks/pack/issues/941) in [buildpacks/pack](https://github.com/buildpacks/pack)
-2. 🗣 Commented on [#941](https://github.com/buildpacks/pack/issues/941) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. 💪 Opened PR [#943](https://github.com/buildpacks/pack/pull/943) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 💪 Opened PR [#944](https://github.com/buildpacks/pack/pull/944) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. 🗣 Commented on [#245](https://github.com/buildpacks/docs/issues/245) in [buildpacks/docs](https://github.com/buildpacks/docs)
+3. 🗣 Commented on [#941](https://github.com/buildpacks/pack/issues/941) in [buildpacks/pack](https://github.com/buildpacks/pack)
 4. 🗣 Commented on [#941](https://github.com/buildpacks/pack/issues/941) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. 🗣 Commented on [#245](https://github.com/buildpacks/docs/issues/245) in [buildpacks/docs](https://github.com/buildpacks/docs)
+5. 💪 Opened PR [#943](https://github.com/buildpacks/pack/pull/943) in [buildpacks/pack](https://github.com/buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
