@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#944](https://github.com/buildpacks/pack/pull/944) in [buildpacks/pack](https://github.com/buildpacks/pack)
-2. 🗣 Commented on [#423](https://github.com/tektoncd/catalog/issues/423) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
-3. 💪 Opened PR [#959](https://github.com/buildpacks/pack/pull/959) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. 🗣 Commented on [#956](https://github.com/buildpacks/pack/issues/956) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. 🗣 Commented on [#249](https://github.com/buildpacks/docs/issues/249) in [buildpacks/docs](https://github.com/buildpacks/docs)
+1. 🗣 Commented on [#260](https://github.com/buildpacks/docs/issues/260) in [buildpacks/docs](https://github.com/buildpacks/docs)
+2. ❗️ Opened issue [#258](https://github.com/buildpacks/docs/issues/258) in [buildpacks/docs](https://github.com/buildpacks/docs)
+3. 🗣 Commented on [#960](https://github.com/buildpacks/pack/issues/960) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. ❌ Closed PR [#944](https://github.com/buildpacks/pack/pull/944) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🗣 Commented on [#423](https://github.com/tektoncd/catalog/issues/423) in [tektoncd/catalog](https://github.com/tektoncd/catalog)
 <!--END_SECTION:activity-->
 
 </details>
