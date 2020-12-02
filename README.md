@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/notaryproject/nv2/issues/19) in [notaryproject/nv2](https://github.com/notaryproject/nv2)
-2. 🗣 Commented on [#964](https://github.com/buildpacks/pack/issues/964) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. 💪 Opened PR [#967](https://github.com/buildpacks/pack/pull/967) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. 🗣 Commented on [#700](https://github.com/buildpacks/pack/issues/700) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. 🗣 Commented on [#959](https://github.com/buildpacks/pack/issues/959) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. ❌ Closed PR [#964](https://github.com/buildpacks/pack/pull/964) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. ❗️ Opened issue [#19](https://github.com/notaryproject/nv2/issues/19) in [notaryproject/nv2](https://github.com/notaryproject/nv2)
+3. 🗣 Commented on [#964](https://github.com/buildpacks/pack/issues/964) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. 💪 Opened PR [#967](https://github.com/buildpacks/pack/pull/967) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🗣 Commented on [#700](https://github.com/buildpacks/pack/issues/700) in [buildpacks/pack](https://github.com/buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
