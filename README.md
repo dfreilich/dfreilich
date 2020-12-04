@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#355](https://github.com/nektos/act/issues/355) in [nektos/act](https://github.com/nektos/act)
-2. 🗣 Commented on [#355](https://github.com/nektos/act/issues/355) in [nektos/act](https://github.com/nektos/act)
-3. ❌ Closed PR [#964](https://github.com/buildpacks/pack/pull/964) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. ❗️ Opened issue [#19](https://github.com/notaryproject/nv2/issues/19) in [notaryproject/nv2](https://github.com/notaryproject/nv2)
-5. 🗣 Commented on [#964](https://github.com/buildpacks/pack/issues/964) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 🎉 Merged PR [#959](https://github.com/buildpacks/pack/pull/959) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. ❗️ Closed issue [#921](https://github.com/buildpacks/pack/issues/921) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. 🗣 Commented on [#977](https://github.com/buildpacks/pack/issues/977) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. 🗣 Commented on [#977](https://github.com/buildpacks/pack/issues/977) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. ❗️ Closed issue [#977](https://github.com/buildpacks/pack/issues/977) in [buildpacks/pack](https://github.com/buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
