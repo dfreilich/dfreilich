@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#993](https://github.com/buildpacks/pack/pull/993) in [buildpacks/pack](https://github.com/buildpacks/pack)
-2. ❗️ Closed issue [#836](https://github.com/buildpacks/pack/issues/836) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 🗣 Commented on [#884](https://github.com/google/go-containerregistry/issues/884) in [google/go-containerregistry](https://github.com/google/go-containerregistry)
+2. 💪 Opened PR [#998](https://github.com/buildpacks/pack/pull/998) in [buildpacks/pack](https://github.com/buildpacks/pack)
 3. 🗣 Commented on [#923](https://github.com/buildpacks/pack/issues/923) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. 🎉 Merged PR [#17](https://github.com/dfreilich/pack-action/pull/17) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
-5. ❌ Reopened PR [#17](https://github.com/dfreilich/pack-action/pull/17) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
+4. 🗣 Commented on [#997](https://github.com/buildpacks/pack/issues/997) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🗣 Commented on [#987](https://github.com/buildpacks/pack/issues/987) in [buildpacks/pack](https://github.com/buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
