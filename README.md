@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#104](https://github.com/buildpacks/samples/issues/104) in [buildpacks/samples](https://github.com/buildpacks/samples)
-2. 🗣 Commented on [#104](https://github.com/buildpacks/samples/issues/104) in [buildpacks/samples](https://github.com/buildpacks/samples)
-3. 🗣 Commented on [#104](https://github.com/buildpacks/samples/issues/104) in [buildpacks/samples](https://github.com/buildpacks/samples)
-4. ❗️ Opened issue [#298](https://github.com/buildpacks/docs/issues/298) in [buildpacks/docs](https://github.com/buildpacks/docs)
-5. 🎉 Merged PR [#1075](https://github.com/buildpacks/pack/pull/1075) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 🗣 Commented on [#138](https://github.com/buildpacks/rfcs/issues/138) in [buildpacks/rfcs](https://github.com/buildpacks/rfcs)
+2. ❗️ Opened issue [#1078](https://github.com/buildpacks/pack/issues/1078) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. 🗣 Commented on [#568](https://github.com/buildpacks/pack/issues/568) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. ❗️ Opened issue [#529](https://github.com/buildpacks/lifecycle/issues/529) in [buildpacks/lifecycle](https://github.com/buildpacks/lifecycle)
+5. 💪 Opened PR [#1076](https://github.com/buildpacks/pack/pull/1076) in [buildpacks/pack](https://github.com/buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
