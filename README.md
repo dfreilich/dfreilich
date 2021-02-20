@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1041](https://github.com/buildpacks/pack/issues/1041) in [buildpacks/pack](https://github.com/buildpacks/pack)
-2. 🎉 Merged PR [#1080](https://github.com/buildpacks/pack/pull/1080) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. 🗣 Commented on [#138](https://github.com/buildpacks/rfcs/issues/138) in [buildpacks/rfcs](https://github.com/buildpacks/rfcs)
-4. ❗️ Opened issue [#1078](https://github.com/buildpacks/pack/issues/1078) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. 🗣 Commented on [#568](https://github.com/buildpacks/pack/issues/568) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 🎉 Merged PR [#1084](https://github.com/buildpacks/pack/pull/1084) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. ❗️ Closed issue [#1032](https://github.com/buildpacks/pack/issues/1032) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. 🗣 Commented on [#1085](https://github.com/buildpacks/pack/issues/1085) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. 🎉 Merged PR [#988](https://github.com/buildpacks/pack/pull/988) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🗣 Commented on [#1083](https://github.com/buildpacks/pack/issues/1083) in [buildpacks/pack](https://github.com/buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
