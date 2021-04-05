@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/notaryproject/notary/issues/3) in [notaryproject/notary](https://github.com/notaryproject/notary)
+1. 🗣 Commented on [#268](https://github.com/buildpacks/pack/issues/268) in [buildpacks/pack](https://github.com/buildpacks/pack)
 2. 🗣 Commented on [#966](https://github.com/buildpacks/pack/issues/966) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. ❗️ Opened issue [#341](https://github.com/buildpacks/docs/issues/341) in [buildpacks/docs](https://github.com/buildpacks/docs)
-4. 🎉 Merged PR [#22](https://github.com/dfreilich/pack-action/pull/22) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
-5. 🎉 Merged PR [#1109](https://github.com/buildpacks/pack/pull/1109) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. 🗣 Commented on [#1117](https://github.com/buildpacks/pack/issues/1117) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. ❗️ Opened issue [#1127](https://github.com/buildpacks/pack/issues/1127) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🗣 Commented on [#23](https://github.com/dfreilich/pack-action/issues/23) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
 <!--END_SECTION:activity-->
 
 </details>
