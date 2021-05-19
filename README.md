@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1179](https://github.com/buildpacks/pack/issues/1179) in [buildpacks/pack](https://github.com/buildpacks/pack)
-2. 🗣 Commented on [#1181](https://github.com/buildpacks/pack/issues/1181) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. 🗣 Commented on [#1186](https://github.com/buildpacks/pack/issues/1186) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. ❌ Closed PR [#1186](https://github.com/buildpacks/pack/pull/1186) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. 🗣 Commented on [#1186](https://github.com/buildpacks/pack/issues/1186) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 🗣 Commented on [#1161](https://github.com/buildpacks/pack/issues/1161) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. 🗣 Commented on [#1148](https://github.com/buildpacks/pack/issues/1148) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. 🗣 Commented on [#1161](https://github.com/buildpacks/pack/issues/1161) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. 🎉 Merged PR [#1154](https://github.com/buildpacks/pack/pull/1154) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🎉 Merged PR [#1188](https://github.com/buildpacks/pack/pull/1188) in [buildpacks/pack](https://github.com/buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
