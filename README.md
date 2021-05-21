@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/pekrau/CouchDB2/issues/103) in [pekrau/CouchDB2](https://github.com/pekrau/CouchDB2)
-2. 🎉 Merged PR [#1145](https://github.com/buildpacks/pack/pull/1145) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. ❗️ Closed issue [#771](https://github.com/buildpacks/pack/issues/771) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. 🎉 Merged PR [#1149](https://github.com/buildpacks/pack/pull/1149) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. 🎉 Merged PR [#1189](https://github.com/buildpacks/pack/pull/1189) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 🗣 Commented on [#1085](https://github.com/buildpacks/pack/issues/1085) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. 🗣 Commented on [#103](https://github.com/pekrau/CouchDB2/issues/103) in [pekrau/CouchDB2](https://github.com/pekrau/CouchDB2)
+3. 🎉 Merged PR [#1145](https://github.com/buildpacks/pack/pull/1145) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. ❗️ Closed issue [#771](https://github.com/buildpacks/pack/issues/771) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🎉 Merged PR [#1149](https://github.com/buildpacks/pack/pull/1149) in [buildpacks/pack](https://github.com/buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
