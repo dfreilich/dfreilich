@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1195](https://github.com/buildpacks/pack/pull/1195) in [buildpacks/pack](https://github.com/buildpacks/pack)
-2. 🎉 Merged PR [#1194](https://github.com/buildpacks/pack/pull/1194) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. 🗣 Commented on [#9477](https://github.com/DataDog/integrations-core/issues/9477) in [DataDog/integrations-core](https://github.com/DataDog/integrations-core)
-4. 💪 Opened PR [#9477](https://github.com/DataDog/integrations-core/pull/9477) in [DataDog/integrations-core](https://github.com/DataDog/integrations-core)
-5. 🗣 Commented on [#1176](https://github.com/buildpacks/pack/issues/1176) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 🗣 Commented on [#9477](https://github.com/DataDog/integrations-core/issues/9477) in [DataDog/integrations-core](https://github.com/DataDog/integrations-core)
+2. 🗣 Commented on [#9477](https://github.com/DataDog/integrations-core/issues/9477) in [DataDog/integrations-core](https://github.com/DataDog/integrations-core)
+3. 🎉 Merged PR [#1195](https://github.com/buildpacks/pack/pull/1195) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. 🎉 Merged PR [#1194](https://github.com/buildpacks/pack/pull/1194) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🗣 Commented on [#9477](https://github.com/DataDog/integrations-core/issues/9477) in [DataDog/integrations-core](https://github.com/DataDog/integrations-core)
 <!--END_SECTION:activity-->
 
 </details>
