@@ -33,9 +33,9 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9477](https://github.com/DataDog/integrations-core/issues/9477) in [DataDog/integrations-core](https://github.com/DataDog/integrations-core)
 2. 🗣 Commented on [#9477](https://github.com/DataDog/integrations-core/issues/9477) in [DataDog/integrations-core](https://github.com/DataDog/integrations-core)
-3. 🎉 Merged PR [#1195](https://github.com/buildpacks/pack/pull/1195) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. 🎉 Merged PR [#1194](https://github.com/buildpacks/pack/pull/1194) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. 🗣 Commented on [#9477](https://github.com/DataDog/integrations-core/issues/9477) in [DataDog/integrations-core](https://github.com/DataDog/integrations-core)
+3. 🗣 Commented on [#9477](https://github.com/DataDog/integrations-core/issues/9477) in [DataDog/integrations-core](https://github.com/DataDog/integrations-core)
+4. 🎉 Merged PR [#1195](https://github.com/buildpacks/pack/pull/1195) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🎉 Merged PR [#1194](https://github.com/buildpacks/pack/pull/1194) in [buildpacks/pack](https://github.com/buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
