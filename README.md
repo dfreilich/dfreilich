@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#225](https://github.com/pterm/pterm/issues/225) in [pterm/pterm](https://github.com/pterm/pterm)
-2. ❗️ Opened issue [#225](https://github.com/pterm/pterm/issues/225) in [pterm/pterm](https://github.com/pterm/pterm)
-3. ❗️ Opened issue [#224](https://github.com/pterm/pterm/issues/224) in [pterm/pterm](https://github.com/pterm/pterm)
-4. 🗣 Commented on [#1118](https://github.com/spf13/cobra/issues/1118) in [spf13/cobra](https://github.com/spf13/cobra)
-5. 🎉 Merged PR [#1211](https://github.com/buildpacks/pack/pull/1211) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 🗣 Commented on [#1191](https://github.com/buildpacks/pack/issues/1191) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. ❌ Closed PR [#1191](https://github.com/buildpacks/pack/pull/1191) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. 🎉 Merged PR [#1224](https://github.com/buildpacks/pack/pull/1224) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. 🗣 Commented on [#225](https://github.com/pterm/pterm/issues/225) in [pterm/pterm](https://github.com/pterm/pterm)
+5. ❗️ Opened issue [#225](https://github.com/pterm/pterm/issues/225) in [pterm/pterm](https://github.com/pterm/pterm)
 <!--END_SECTION:activity-->
 
 </details>
