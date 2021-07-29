@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/paketo-buildpacks/go-mod-vendor/issues/140) in [paketo-buildpacks/go-mod-vendor](https://github.com/paketo-buildpacks/go-mod-vendor)
-2. 🗣 Commented on [#2341](https://github.com/goreleaser/goreleaser/issues/2341) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 🗣 Commented on [#1220](https://github.com/buildpacks/pack/issues/1220) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. 🗣 Commented on [#140](https://github.com/paketo-buildpacks/go-mod-vendor/issues/140) in [paketo-buildpacks/go-mod-vendor](https://github.com/paketo-buildpacks/go-mod-vendor)
 3. 🗣 Commented on [#2341](https://github.com/goreleaser/goreleaser/issues/2341) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 4. 🗣 Commented on [#2341](https://github.com/goreleaser/goreleaser/issues/2341) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-5. 🎉 Merged PR [#1166](https://github.com/buildpacks/pack/pull/1166) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🗣 Commented on [#2341](https://github.com/goreleaser/goreleaser/issues/2341) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--END_SECTION:activity-->
 
 </details>
