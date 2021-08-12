@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1220](https://github.com/buildpacks/pack/issues/1220) in [buildpacks/pack](https://github.com/buildpacks/pack)
-2. 🗣 Commented on [#3496](https://github.com/renovatebot/renovate/issues/3496) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-3. 🗣 Commented on [#1220](https://github.com/buildpacks/pack/issues/1220) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 💪 Opened PR [#6](https://github.com/avarteqgmbh/gitcredentials/pull/6) in [avarteqgmbh/gitcredentials](https://github.com/avarteqgmbh/gitcredentials)
+2. ❗️ Opened issue [#5](https://github.com/avarteqgmbh/gitcredentials/issues/5) in [avarteqgmbh/gitcredentials](https://github.com/avarteqgmbh/gitcredentials)
+3. ❗️ Opened issue [#50](https://github.com/paketo-community/git/issues/50) in [paketo-community/git](https://github.com/paketo-community/git)
 4. 🗣 Commented on [#1220](https://github.com/buildpacks/pack/issues/1220) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. 🗣 Commented on [#140](https://github.com/paketo-buildpacks/go-mod-vendor/issues/140) in [paketo-buildpacks/go-mod-vendor](https://github.com/paketo-buildpacks/go-mod-vendor)
+5. 🗣 Commented on [#3496](https://github.com/renovatebot/renovate/issues/3496) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
 <!--END_SECTION:activity-->
 
 </details>
