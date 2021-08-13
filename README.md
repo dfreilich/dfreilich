@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/avarteqgmbh/gitcredentials/pull/6) in [avarteqgmbh/gitcredentials](https://github.com/avarteqgmbh/gitcredentials)
-2. ❗️ Opened issue [#5](https://github.com/avarteqgmbh/gitcredentials/issues/5) in [avarteqgmbh/gitcredentials](https://github.com/avarteqgmbh/gitcredentials)
-3. ❗️ Opened issue [#50](https://github.com/paketo-community/git/issues/50) in [paketo-community/git](https://github.com/paketo-community/git)
-4. 🗣 Commented on [#1220](https://github.com/buildpacks/pack/issues/1220) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. 🗣 Commented on [#3496](https://github.com/renovatebot/renovate/issues/3496) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+1. 🎉 Merged PR [#33](https://github.com/buildpacks/pack-orb/pull/33) in [buildpacks/pack-orb](https://github.com/buildpacks/pack-orb)
+2. 🗣 Commented on [#33](https://github.com/buildpacks/pack-orb/issues/33) in [buildpacks/pack-orb](https://github.com/buildpacks/pack-orb)
+3. 🗣 Commented on [#1253](https://github.com/buildpacks/pack/issues/1253) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. 💪 Opened PR [#6](https://github.com/avarteqgmbh/gitcredentials/pull/6) in [avarteqgmbh/gitcredentials](https://github.com/avarteqgmbh/gitcredentials)
+5. ❗️ Opened issue [#5](https://github.com/avarteqgmbh/gitcredentials/issues/5) in [avarteqgmbh/gitcredentials](https://github.com/avarteqgmbh/gitcredentials)
 <!--END_SECTION:activity-->
 
 </details>
