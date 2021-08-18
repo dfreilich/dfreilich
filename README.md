@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/buildpacks/pack-orb/pull/33) in [buildpacks/pack-orb](https://github.com/buildpacks/pack-orb)
-2. 🗣 Commented on [#33](https://github.com/buildpacks/pack-orb/issues/33) in [buildpacks/pack-orb](https://github.com/buildpacks/pack-orb)
-3. 🗣 Commented on [#1253](https://github.com/buildpacks/pack/issues/1253) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. 💪 Opened PR [#6](https://github.com/avarteqgmbh/gitcredentials/pull/6) in [avarteqgmbh/gitcredentials](https://github.com/avarteqgmbh/gitcredentials)
-5. ❗️ Opened issue [#5](https://github.com/avarteqgmbh/gitcredentials/issues/5) in [avarteqgmbh/gitcredentials](https://github.com/avarteqgmbh/gitcredentials)
+1. 🗣 Commented on [#244](https://github.com/paketo-buildpacks/yarn-install/issues/244) in [paketo-buildpacks/yarn-install](https://github.com/paketo-buildpacks/yarn-install)
+2. 🗣 Commented on [#2091](https://github.com/yarnpkg/yarn/issues/2091) in [yarnpkg/yarn](https://github.com/yarnpkg/yarn)
+3. ❗️ Opened issue [#244](https://github.com/paketo-buildpacks/yarn-install/issues/244) in [paketo-buildpacks/yarn-install](https://github.com/paketo-buildpacks/yarn-install)
+4. 🎉 Merged PR [#33](https://github.com/buildpacks/pack-orb/pull/33) in [buildpacks/pack-orb](https://github.com/buildpacks/pack-orb)
+5. 🗣 Commented on [#33](https://github.com/buildpacks/pack-orb/issues/33) in [buildpacks/pack-orb](https://github.com/buildpacks/pack-orb)
 <!--END_SECTION:activity-->
 
 </details>
