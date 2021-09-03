@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/dfreilich/pack-action/pull/39) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
-2. 💪 Opened PR [#39](https://github.com/dfreilich/pack-action/pull/39) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
-3. 🗣 Commented on [#395](https://github.com/buildpacks/docs/issues/395) in [buildpacks/docs](https://github.com/buildpacks/docs)
-4. 🗣 Commented on [#395](https://github.com/buildpacks/docs/issues/395) in [buildpacks/docs](https://github.com/buildpacks/docs)
-5. 🗣 Commented on [#244](https://github.com/paketo-buildpacks/yarn-install/issues/244) in [paketo-buildpacks/yarn-install](https://github.com/paketo-buildpacks/yarn-install)
+1. 🎉 Merged PR [#41](https://github.com/dfreilich/pack-action/pull/41) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
+2. 💪 Opened PR [#41](https://github.com/dfreilich/pack-action/pull/41) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
+3. ❌ Closed PR [#40](https://github.com/dfreilich/pack-action/pull/40) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
+4. 🗣 Commented on [#40](https://github.com/dfreilich/pack-action/issues/40) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
+5. 🎉 Merged PR [#39](https://github.com/dfreilich/pack-action/pull/39) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
 <!--END_SECTION:activity-->
 
 </details>
