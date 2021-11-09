@@ -32,10 +32,10 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1315](https://github.com/buildpacks/pack/issues/1315) in [buildpacks/pack](https://github.com/buildpacks/pack)
-2. 🗣 Commented on [#1300](https://github.com/buildpacks/pack/issues/1300) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. 🎉 Merged PR [#1306](https://github.com/buildpacks/pack/pull/1306) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. 🗣 Commented on [#1282](https://github.com/buildpacks/pack/issues/1282) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. 🎉 Merged PR [#1308](https://github.com/buildpacks/pack/pull/1308) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. 🗣 Commented on [#1170](https://github.com/buildpacks/pack/issues/1170) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. ❌ Closed PR [#1170](https://github.com/buildpacks/pack/pull/1170) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. 🗣 Commented on [#1315](https://github.com/buildpacks/pack/issues/1315) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🗣 Commented on [#1300](https://github.com/buildpacks/pack/issues/1300) in [buildpacks/pack](https://github.com/buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
