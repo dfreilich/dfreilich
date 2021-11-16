@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1323](https://github.com/buildpacks/pack/issues/1323) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 🗣 Commented on [#3](https://github.com/paketo-buildpacks/libjvm/issues/3) in [paketo-buildpacks/libjvm](https://github.com/paketo-buildpacks/libjvm)
 2. 🗣 Commented on [#1323](https://github.com/buildpacks/pack/issues/1323) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. 🎉 Merged PR [#1278](https://github.com/buildpacks/pack/pull/1278) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. 🗣 Commented on [#23](https://github.com/dfreilich/pack-action/issues/23) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
-5. 🗣 Commented on [#142](https://github.com/buildpacks/community/issues/142) in [buildpacks/community](https://github.com/buildpacks/community)
+3. 🗣 Commented on [#1323](https://github.com/buildpacks/pack/issues/1323) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. 🎉 Merged PR [#1278](https://github.com/buildpacks/pack/pull/1278) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🗣 Commented on [#23](https://github.com/dfreilich/pack-action/issues/23) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
 <!--END_SECTION:activity-->
 
 </details>
