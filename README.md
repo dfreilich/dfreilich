@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/paketo-buildpacks/libjvm/issues/3) in [paketo-buildpacks/libjvm](https://github.com/paketo-buildpacks/libjvm)
-2. 🗣 Commented on [#1323](https://github.com/buildpacks/pack/issues/1323) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. 🗣 Commented on [#1323](https://github.com/buildpacks/pack/issues/1323) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. 🎉 Merged PR [#1278](https://github.com/buildpacks/pack/pull/1278) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. 🗣 Commented on [#23](https://github.com/dfreilich/pack-action/issues/23) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
+1. 🎉 Merged PR [#48](https://github.com/dfreilich/pack-action/pull/48) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
+2. 🎉 Merged PR [#1324](https://github.com/buildpacks/pack/pull/1324) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. ❗️ Closed issue [#23](https://github.com/dfreilich/pack-action/issues/23) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
+4. 🗣 Commented on [#23](https://github.com/dfreilich/pack-action/issues/23) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
+5. 💪 Opened PR [#63](https://github.com/pantheon-systems/autotag/pull/63) in [pantheon-systems/autotag](https://github.com/pantheon-systems/autotag)
 <!--END_SECTION:activity-->
 
 </details>
