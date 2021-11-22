@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/dfreilich/pack-action/pull/48) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
-2. 🎉 Merged PR [#1324](https://github.com/buildpacks/pack/pull/1324) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. ❗️ Closed issue [#23](https://github.com/dfreilich/pack-action/issues/23) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
-4. 🗣 Commented on [#23](https://github.com/dfreilich/pack-action/issues/23) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
-5. 💪 Opened PR [#63](https://github.com/pantheon-systems/autotag/pull/63) in [pantheon-systems/autotag](https://github.com/pantheon-systems/autotag)
+1. 🗣 Commented on [#143](https://github.com/buildpacks/community/issues/143) in [buildpacks/community](https://github.com/buildpacks/community)
+2. ❗️ Closed issue [#144](https://github.com/buildpacks/community/issues/144) in [buildpacks/community](https://github.com/buildpacks/community)
+3. 🗣 Commented on [#144](https://github.com/buildpacks/community/issues/144) in [buildpacks/community](https://github.com/buildpacks/community)
+4. 🗣 Commented on [#144](https://github.com/buildpacks/community/issues/144) in [buildpacks/community](https://github.com/buildpacks/community)
+5. 🎉 Merged PR [#48](https://github.com/dfreilich/pack-action/pull/48) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
 <!--END_SECTION:activity-->
 
 </details>
