@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1323](https://github.com/buildpacks/pack/pull/1323) in [buildpacks/pack](https://github.com/buildpacks/pack)
-2. 🎉 Merged PR [#1327](https://github.com/buildpacks/pack/pull/1327) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. ❗️ Closed issue [#1325](https://github.com/buildpacks/pack/issues/1325) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. ❗️ Opened issue [#2](https://github.com/dracula/powerlevel10k/issues/2) in [dracula/powerlevel10k](https://github.com/dracula/powerlevel10k)
-5. 🎉 Merged PR [#1328](https://github.com/buildpacks/pack/pull/1328) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 💪 Opened PR [#1340](https://github.com/buildpacks/pack/pull/1340) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. 🎉 Merged PR [#1326](https://github.com/buildpacks/pack/pull/1326) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. 🎉 Merged PR [#1337](https://github.com/buildpacks/pack/pull/1337) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. ❗️ Closed issue [#1174](https://github.com/buildpacks/pack/issues/1174) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🎉 Merged PR [#1339](https://github.com/buildpacks/pack/pull/1339) in [buildpacks/pack](https://github.com/buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
