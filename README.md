@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/avarteqgmbh/gitcredentials/issues/5) in [avarteqgmbh/gitcredentials](https://github.com/avarteqgmbh/gitcredentials)
-2. 🗣 Commented on [#341](https://github.com/buildpacks/docs/issues/341) in [buildpacks/docs](https://github.com/buildpacks/docs)
-3. 🎉 Merged PR [#1341](https://github.com/buildpacks/pack/pull/1341) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. 🗣 Commented on [#1341](https://github.com/buildpacks/pack/issues/1341) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. 💪 Opened PR [#1341](https://github.com/buildpacks/pack/pull/1341) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 🗣 Commented on [#1343](https://github.com/buildpacks/pack/issues/1343) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. 🗣 Commented on [#1343](https://github.com/buildpacks/pack/issues/1343) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. 🎉 Merged PR [#1344](https://github.com/buildpacks/pack/pull/1344) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. 🗣 Commented on [#1343](https://github.com/buildpacks/pack/issues/1343) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🗣 Commented on [#1342](https://github.com/buildpacks/pack/issues/1342) in [buildpacks/pack](https://github.com/buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
