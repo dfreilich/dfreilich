@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1382](https://github.com/buildpacks/pack/pull/1382) in [buildpacks/pack](https://github.com/buildpacks/pack)
-2. 🎉 Merged PR [#54](https://github.com/dfreilich/pack-action/pull/54) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
-3. 💪 Opened PR [#54](https://github.com/dfreilich/pack-action/pull/54) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
-4. 🎉 Merged PR [#53](https://github.com/dfreilich/pack-action/pull/53) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
-5. 💪 Opened PR [#53](https://github.com/dfreilich/pack-action/pull/53) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
+1. 🎉 Merged PR [#1382](https://github.com/buildpacks/pack/pull/1382) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. 💪 Opened PR [#1382](https://github.com/buildpacks/pack/pull/1382) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. 🎉 Merged PR [#54](https://github.com/dfreilich/pack-action/pull/54) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
+4. 💪 Opened PR [#54](https://github.com/dfreilich/pack-action/pull/54) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
+5. 🎉 Merged PR [#53](https://github.com/dfreilich/pack-action/pull/53) in [dfreilich/pack-action](https://github.com/dfreilich/pack-action)
 <!--END_SECTION:activity-->
 
 </details>
