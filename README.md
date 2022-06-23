@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#870](https://github.com/daattali/beautiful-jekyll/issues/870) in [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
-2. 🗣 Commented on [#244](https://github.com/paketo-buildpacks/yarn-install/issues/244) in [paketo-buildpacks/yarn-install](https://github.com/paketo-buildpacks/yarn-install)
-3. 🗣 Commented on [#171](https://github.com/buildpacks/community/issues/171) in [buildpacks/community](https://github.com/buildpacks/community)
-4. 🗣 Commented on [#1434](https://github.com/buildpacks/pack/issues/1434) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. 🎉 Merged PR [#1441](https://github.com/buildpacks/pack/pull/1441) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. 🗣 Commented on [#1412](https://github.com/buildpacks/pack/issues/1412) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. 🗣 Commented on [#870](https://github.com/daattali/beautiful-jekyll/issues/870) in [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
+3. 🗣 Commented on [#244](https://github.com/paketo-buildpacks/yarn-install/issues/244) in [paketo-buildpacks/yarn-install](https://github.com/paketo-buildpacks/yarn-install)
+4. 🗣 Commented on [#171](https://github.com/buildpacks/community/issues/171) in [buildpacks/community](https://github.com/buildpacks/community)
+5. 🗣 Commented on [#1434](https://github.com/buildpacks/pack/issues/1434) in [buildpacks/pack](https://github.com/buildpacks/pack)
 <!--END_SECTION:activity-->
 
 </details>
