@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/weaveworks/tf-controller/issues/269) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
+1. 🗣 Commented on [#1491](https://github.com/buildpacks/pack/issues/1491) in [buildpacks/pack](https://github.com/buildpacks/pack)
 2. 🗣 Commented on [#269](https://github.com/weaveworks/tf-controller/issues/269) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
 3. 🗣 Commented on [#269](https://github.com/weaveworks/tf-controller/issues/269) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
-4. ❗️ Opened issue [#269](https://github.com/weaveworks/tf-controller/issues/269) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
-5. ❗️ Closed issue [#1482](https://github.com/buildpacks/pack/issues/1482) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. 🗣 Commented on [#269](https://github.com/weaveworks/tf-controller/issues/269) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
+5. ❗️ Opened issue [#269](https://github.com/weaveworks/tf-controller/issues/269) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
 <!--END_SECTION:activity-->
 
 </details>
