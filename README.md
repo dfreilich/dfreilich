@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#883](https://github.com/fluxcd/source-controller/issues/883) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-2. ❗️ Closed issue [#883](https://github.com/fluxcd/source-controller/issues/883) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-3. 🗣 Commented on [#883](https://github.com/fluxcd/source-controller/issues/883) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+1. 🎉 Merged PR [#1507](https://github.com/buildpacks/pack/pull/1507) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. 🗣 Commented on [#1500](https://github.com/buildpacks/pack/issues/1500) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. 🗣 Commented on [#1505](https://github.com/buildpacks/pack/issues/1505) in [buildpacks/pack](https://github.com/buildpacks/pack)
 4. 🗣 Commented on [#883](https://github.com/fluxcd/source-controller/issues/883) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-5. 🗣 Commented on [#883](https://github.com/fluxcd/source-controller/issues/883) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+5. ❗️ Closed issue [#883](https://github.com/fluxcd/source-controller/issues/883) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
 <!--END_SECTION:activity-->
 
 </details>
