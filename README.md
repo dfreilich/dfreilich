@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1507](https://github.com/buildpacks/pack/pull/1507) in [buildpacks/pack](https://github.com/buildpacks/pack)
-2. 🗣 Commented on [#1500](https://github.com/buildpacks/pack/issues/1500) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. 🗣 Commented on [#1505](https://github.com/buildpacks/pack/issues/1505) in [buildpacks/pack](https://github.com/buildpacks/pack)
-4. 🗣 Commented on [#883](https://github.com/fluxcd/source-controller/issues/883) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
-5. ❗️ Closed issue [#883](https://github.com/fluxcd/source-controller/issues/883) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
+1. 🗣 Commented on [#10145](https://github.com/hashicorp/terraform-provider-aws/issues/10145) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+2. 🎉 Merged PR [#1507](https://github.com/buildpacks/pack/pull/1507) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. 🗣 Commented on [#1500](https://github.com/buildpacks/pack/issues/1500) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. 🗣 Commented on [#1505](https://github.com/buildpacks/pack/issues/1505) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. 🗣 Commented on [#883](https://github.com/fluxcd/source-controller/issues/883) in [fluxcd/source-controller](https://github.com/fluxcd/source-controller)
 <!--END_SECTION:activity-->
 
 </details>
