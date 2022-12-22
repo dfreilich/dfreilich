@@ -31,11 +31,11 @@ I'm David, a Software Engineer based in Israel, passionate on writing beautiful,
   <summary>Show</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1573](https://github.com/buildpacks/pack/pull/1573) in [buildpacks/pack](https://github.com/buildpacks/pack)
-2. 💪 Opened PR [#1573](https://github.com/buildpacks/pack/pull/1573) in [buildpacks/pack](https://github.com/buildpacks/pack)
-3. ❗️ Opened issue [#473](https://github.com/weaveworks/tf-controller/issues/473) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
-4. 🎉 Merged PR [#1566](https://github.com/buildpacks/pack/pull/1566) in [buildpacks/pack](https://github.com/buildpacks/pack)
-5. ❗️ Opened issue [#1561](https://github.com/buildpacks/pack/issues/1561) in [buildpacks/pack](https://github.com/buildpacks/pack)
+1. ❗️ Closed issue [#1578](https://github.com/buildpacks/pack/issues/1578) in [buildpacks/pack](https://github.com/buildpacks/pack)
+2. 🗣 Commented on [#1578](https://github.com/buildpacks/pack/issues/1578) in [buildpacks/pack](https://github.com/buildpacks/pack)
+3. 🎉 Merged PR [#1573](https://github.com/buildpacks/pack/pull/1573) in [buildpacks/pack](https://github.com/buildpacks/pack)
+4. 💪 Opened PR [#1573](https://github.com/buildpacks/pack/pull/1573) in [buildpacks/pack](https://github.com/buildpacks/pack)
+5. ❗️ Opened issue [#473](https://github.com/weaveworks/tf-controller/issues/473) in [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller)
 <!--END_SECTION:activity-->
 
 </details>
