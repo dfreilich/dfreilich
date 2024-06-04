@@ -1,7 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/dfreilich/dfreilich/master/assets/wave.gif" width="30px"> 🧑‍💻
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/dfreilich)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dfreilich)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidfreilich/)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dfreilich)
 [![Repos Badge](https://badges.pufler.dev/repos/dfreilich)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/dfreilich/dfreilich)](https://badges.pufler.dev)
